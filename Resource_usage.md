@@ -15,8 +15,6 @@ Number of Nodes	|4 (xena) <br> 2(BigMem) |  8 (xena) <br> 4 (Bigmem)
 Processors per Node |	16(xena) <br> 32(BigMem)  | 16 (xena) <br>  32 (BigMem)
 
 
-Node Access Policy |	Single Job/Node ie (Multiple users can’t share resources across same node)
---- | ---
 
 
 
@@ -31,8 +29,6 @@ Node Access Policy |	Single Job/Node ie (Multiple users can’t share resources 
 |   Processors per Node |      8     |      8     |      8     |      8     |
 |              Walltime |  48:00:00  |  48:00:00  |  01:00:00  |  01:00:00  |
 
-Node Access Policy | Multi Job/Node ie (Multiple users may share resources across same node)
---- | ---
 
 
 
@@ -45,5 +41,3 @@ Number of Nodes	|6 | 6
 Processors per Node |	16  | 16
 Walltime |  72:00:00  | 72:00:00
 
-Node Access Policy |	Single Job/Node ie (Multiple users can’t share resources across same node)
---- | ---
